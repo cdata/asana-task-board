@@ -1,0 +1,18 @@
+{
+  "name": "asana-kanban",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "~2.3.1",
+    "handlebars": "~1.0.0-rc.3",
+    "jquery": "~1.8.3",
+    "normalize-css": "*",
+    "backbone": "~0.9.10",
+    "requirejs": "~2.1.5",
+    "underscore": "~1.4.4"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "asana-kanban",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/server.js",
+  "dependencies": {
+    "express": "~3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
