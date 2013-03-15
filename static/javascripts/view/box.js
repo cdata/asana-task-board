@@ -2,11 +2,12 @@ define(['view', 'collection/task', 'view/task', 'templates'],
   function(View, TaskCollection, TaskView, templates) {
     var lazyReasons = [
       'Taking a siesta',
-      'Nothing to do',
       'Counting the stars',
       'Dreaming of Mr. Wiggles',
       'Done, done and done',
-      'What tasks?'
+      'What tasks?',
+      'Chatting with Harley',
+      'What to do, what to do'
     ];
     return View.extend({
       tagName: 'li',

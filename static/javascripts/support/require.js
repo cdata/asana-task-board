@@ -1,1 +1,1 @@
-/Users/christopherjoel/repositories/twist-ban/components/requirejs/require.js
+../../../components/requirejs/require.js

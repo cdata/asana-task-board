@@ -1,1 +1,1 @@
-/Users/christopherjoel/repositories/twist-ban/components/handlebars/handlebars.runtime.js
+../../../components/handlebars/handlebars.runtime.js

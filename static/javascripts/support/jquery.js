@@ -1,1 +1,1 @@
-/Users/christopherjoel/repositories/twist-ban/components/jquery/jquery.js
+../../../components/jquery/jquery.js
